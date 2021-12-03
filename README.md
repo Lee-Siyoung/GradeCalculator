@@ -1,2 +1,2 @@
-# asdf
+# GradeCalculator
 GradeCalculator
